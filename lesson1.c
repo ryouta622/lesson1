@@ -9,5 +9,7 @@ int Subject(int a){
 }
 
 int add(int a,int b){
+	char[5] = "kon";
 	return a+b;
 }	
+
